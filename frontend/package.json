@@ -1,0 +1,23 @@
+{
+  "name": "admin-panel-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^15.0.3",
+    "protobufjs": "^7.4.0",
+    "recharts": "^2.12.7",
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.15.0",
+    "eslint-config-next": "^15.0.3"
+  }
+}
